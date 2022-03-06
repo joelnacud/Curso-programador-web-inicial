@@ -1,0 +1,35 @@
+body{
+    background-color: gainsboro;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: 600;
+}
+
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover{
+    color: red;
+}
+img{
+    height: 400px;
+}
+
